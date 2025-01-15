@@ -1,6 +1,6 @@
 package Ejercicios2Evaluacion;
 
 public class Prueba {
-    hola
+    hola que tal 
 
 }
